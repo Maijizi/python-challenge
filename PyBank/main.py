@@ -1,5 +1,4 @@
 import csv
-import os
 import statistics
 
 total_net= 0
