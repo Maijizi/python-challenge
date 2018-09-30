@@ -41,6 +41,6 @@ Greatest Decrease in Profits: {min_change_month} (${min_change})"""
 print (result)
 
 #write result into a text file
-out = open ("PyBank_result","w")
+out = open ("PyBank_result.txt","w")
 out.write(result)
 out.close()
